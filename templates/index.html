@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+
+{% block banner %}
+<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/11/gotham-prompt-generator-header.jpg" style="width:100%;" >
+
+{% endblock %}
+
+{% block title %}
+</p>
+<div class="container">
+  <div class="row">
+    <h4 class="centering">  </h4>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block content %}
+
+<div class="container centering">
+  <div class="row">
+    <div class="eight columns offset-by-two">
+      <label for="name">Write a book about:</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="sixteen columns">
+      <h4> {{ backstory }} </h4>
+    </div>
+  </div>
+
+  <a class="button button-primary" href="{{ url_for('index') }}">REFRESH</a>
+  
+</div>
+
+<div class="container">
+  <hr>
+  <h6 class="centering">
+    <p><img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/10/info_icon.png" width="22"> This app uses quantum computing to randomly generate writing prompts! </p>
+    <p>For more information, please look at the <a href="https://www.radhapyarisandhir.com/wp-content/uploads/2020/10/dnd_mustarter_kit_README.pdf">README</a>
+      or check out the Github <a href="https://github.com/quantum-kittens/dnd-mustarter-kit/">repo</a>.</p>
+      <img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/11/Gotham-Writers-Logo.png" style="width:30%;" >
+  </h6>
+  
+  
+
+
+
+
+</div>
+
+{% endblock %}
+
+{% block footer %}
+<hr>
+<h6 class="centering">
+  <a href="https://unsplash.com/@amadorloureiroblanco">Photo by Amador Loureiro on Unsplash</a>
+</h6>
+
+{% endblock %}
