@@ -35,7 +35,7 @@ SITUATION = [
     "is Cut off from family inheritance",
     "is Desperate for social media followers",
     "Goes on their first vacation ever",
-    "in Arrested for a crime they didn’t commit",
+    "is Arrested for a crime they didn’t commit",
     "is Chosen to appear on their favorite gameshow",
     "Fakes their own death",
     "Gets lost on a hiking trip",
