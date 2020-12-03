@@ -4,14 +4,7 @@ A writing prompt generator for the Gotham Writers Workshop game show
 <img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/11/gotham-prompt-generator-header.jpg" width="80%"  />
 
 ## Overview
-This tool randomly generates a story prompt
-
-## Functionalities
-
-- A character generator that provides a race, class, name, and a one-line ad-libbed backstory  
-- A dice roller to determine ability scores or to use during gameplay
-- An ad-libbed D&D scene 
-
+This tool randomly generates a story prompt by making use of quantum computing.
 
 ##  How to Use The D&D μStarter Kit
 
