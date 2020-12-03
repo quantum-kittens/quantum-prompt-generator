@@ -29,7 +29,7 @@ SITUATION = [
     "Has a sibling who marries their worst enemy",
     "Struggles to direct a community theater production",
     "Must accompany an aging parent across the country",
-    "Stranded by car failure",
+    "is stranded by car failure",
     "Falls in love with a psychopath",
     "is a lone survivor of mass tragedy",
     "is Cut off from family inheritance",
