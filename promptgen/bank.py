@@ -1,6 +1,6 @@
 CHARACTER = [
-    "9-year-old girl",
-    "Terminally ill man", 
+    "9-year-old",
+    "Terminally ill adult", 
     "Mother of five",
     "Politician up for re-election",
     "Professional dog walker",
@@ -14,7 +14,7 @@ CHARACTER = [
     "Art museum intern",
     "Teenage prodigy",
     "Ex-con sous chef",
-    "Rabbi questioning his faith",
+    "Rabbi questioning their faith",
     "Olympic silver medalist",
     "Gambling-addicted principal",
     "Burned out archaeologist",
