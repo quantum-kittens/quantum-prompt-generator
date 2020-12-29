@@ -10,6 +10,12 @@ This tool randomly generates a story prompt by making use of quantum computing.
 
 An online version is provided at [promptgen.herokuapp.com](https://promptgen.herokuapp.com/). This version runs only on the QASM simulator so that the server is not overloaded.
 
+### Navigating The Quantum Writing Prompt Generator
+
+<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/12/Gotham-Prompt-Gen-Screenshot.png" width="80%"  />
+
+Click on ‘Refresh’ to generate a new prompt. If the same prompt shows up a number of times, don't worry! This can happen due to cache. Simply click Refresh until you get a new one! 
+
 ### How to Run The Quantum Writing Prompt Generator Locally
 
 If you want to run it on a actual quantum device, or just have a local copy of this follow the following step:
@@ -21,12 +27,6 @@ If you want to run it on a actual quantum device, or just have a local copy of t
 5. Execute `flask run`
 
 The app will available at `127.0.0.1:5000/`. You can direct your browser to that location to access it. To run this on an actual quantum device, open `app.py` and edit it as mentioned in the comments in the file, before executing `flask run`.
-
-### Navigating The Quantum Writing Prompt Generator
-
-<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/12/Gotham-Prompt-Gen-Screenshot.png" width="80%"  />
-
-Click on ‘Refresh’ to generate a new prompt. If the same prompt shows up a number of times, don't worry! This can happen due to cache. Simply click Refresh until you get a new one! 
 
 
 ##  How The Quantum Writing Prompt Generator Works
@@ -49,6 +49,7 @@ If a choice needs to be made from among eight word options, say, then a circuit 
 
 All circuits are simulated with the QASM simulator from IBM’s open source SDK, Qiskit. However if you would rather user IBM's quantum devices then you can do so, as discussed earlier.
 
+This generator works similarly to the [D&D μStarter Kit](https://qdnd.herokuapp.com/). For a more detailed layperson explanation, check out the article ["How I Use Quantum Computing to Play Dungeons & Dragons"](https://medium.com/swlh/how-i-use-quantum-computing-to-play-dungeons-dragons-68528f6befa2).
 
 ## Credits
 #### Created by:
