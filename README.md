@@ -56,6 +56,9 @@ This generator works similarly to the [D&D μStarter Kit](https://qdnd.herokuapp
 - Radha Pyari Sandhir (Github: [quantum-kittens](https://github.com/quantum-kittens), Twitter: [RadhaPyari](https://twitter.com/RadhaPyari))
 - Soham Pal (Github: [e-eight](https://github.com/e-eight), Twitter: [dragonbornmonk](https://twitter.com/dragonbornmonk))
 
+#### Prompts from:
+- Josh Sippie (Twitter: [sippenator101](https://twitter.com/sippenator101)
+- Gotham Writers Workshop (Website: [writingclasses.com](https://www.writingclasses.com/)) 
 
 #### Quantum Resources: 
 - [The Quantum Catalog](http://quantumcatalog.com/)
